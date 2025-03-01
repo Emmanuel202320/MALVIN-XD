@@ -8,10 +8,10 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~IhxQzIaQ#seXYgaLUgr_PPjEYNCqLWiSEXHaaPGPUPX2YNcsbaGg",
 // add your Session Id ,session id starts with MALVIN-XD~
 
-PREFIX: process.env.PREFIX || "/",
+PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "✦silent-xmd v2✦",
+BOT_NAME: process.env.BOT_NAME || "✦MALVIN-XDv2✦",
 // add bot name here for menu
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
